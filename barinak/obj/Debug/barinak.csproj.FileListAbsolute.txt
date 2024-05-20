@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\bin\Debug\barinak.exe.config
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\bin\Debug\barinak.exe
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\bin\Debug\barinak.pdb
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.FormEkle.resources
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.FormListe.resources
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.exe
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\barinak\barinak\obj\Debug\barinak.pdb
